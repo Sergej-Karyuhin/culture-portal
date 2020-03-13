@@ -1,3 +1,4 @@
+## React/Redux
 # Team project (6 persons)
 ## [Repository](https://github.com/Sergej-Karyuhin/codejam-culture-portal)
 ## [Task](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/codejam-culture-portal.md)
